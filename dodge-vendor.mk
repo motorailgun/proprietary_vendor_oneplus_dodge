@@ -6,6 +6,12 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/oneplus/dodge
 
 PRODUCT_COPY_FILES += \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_1_100nit.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_1_100nit.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_1_2nit.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_1_2nit.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_1_max.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_1_max.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_2_100nit.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_2_100nit.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_2_2nit.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_2_2nit.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_2_max.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_2_max.odf \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Cinema_100nits_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Cinema_100nits_pGC.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Cinema_2nits_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Cinema_2nits_pGC.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Cinema_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Cinema_pGC.txt \
@@ -25,6 +31,12 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Vivid_100nits_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Vivid_100nits_pGC.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Vivid_2nits_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Vivid_2nits_pGC.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Vivid_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA545_P_3_A0005_dsc_cmd_mode_panel_Vivid_pGC.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_1_100nit.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_1_100nit.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_1_2nit.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_1_2nit.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_1_max.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_1_max.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_2_100nit.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_2_100nit.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_2_2nit.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_2_2nit.odf \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_2_max.odf:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_2_max.odf \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Cinema_100nits_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Cinema_100nits_pGC.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Cinema_2nits_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Cinema_2nits_pGC.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Cinema_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Cinema_pGC.txt \
@@ -44,6 +56,20 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Vivid_100nits_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Vivid_100nits_pGC.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Vivid_2nits_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Vivid_2nits_pGC.txt \
     vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Vivid_pGC.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/AA569_P_3_A0019_dsc_cmd_mode_panel_Vivid_pGC.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_COMP3.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_COMP3.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_ColorInvert_Fliter.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_ColorInvert_Fliter.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_FPS.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_FPS.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_FPS_Fliter.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_FPS_Fliter.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_HighDynamicRange_Fliter.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_HighDynamicRange_Fliter.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_MOBA.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_MOBA.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_MOBA_Fliter.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_MOBA_Fliter.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_NightVision_Fliter.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_NightVision_Fliter.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_OTOME.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_OTOME.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_OTOME_Fliter.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_OTOME_Fliter.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_OldMovie_Fliter.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_OldMovie_Fliter.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_RPG.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_RPG.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/Game_Vivid_Fliter.txt:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/Game_Vivid_Fliter.txt \
+    vendor/oneplus/dodge/proprietary/odm/etc/PanelChaplin/panelchaplin:$(TARGET_COPY_OUT_ODM)/etc/PanelChaplin/panelchaplin \
     vendor/oneplus/dodge/proprietary/odm/etc/acdbdata/up_ve_enpuv5_ha.eai:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/up_ve_enpuv5_ha.eai \
     vendor/oneplus/dodge/proprietary/odm/etc/acdbdata/up_ve_enpuv5_hh.eai:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/up_ve_enpuv5_hh.eai \
     vendor/oneplus/dodge/proprietary/odm/etc/camera/AIAEVideoModel.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/AIAEVideoModel.bin \
@@ -790,8 +816,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/odm/etc/camera/v10_vamm_sig_norm_0408_8143-SIM.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/v10_vamm_sig_norm_0408_8143-SIM.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/camera/wide_inv_padding_mapxy_33x25.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/wide_inv_padding_mapxy_33x25.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/camera/wide_padding_mapxy_33x25.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/wide_padding_mapxy_33x25.bin \
+    vendor/oneplus/dodge/proprietary/odm/etc/display/cwb_weightspos.json:$(TARGET_COPY_OUT_ODM)/etc/display/cwb_weightspos.json \
     vendor/oneplus/dodge/proprietary/odm/etc/display/qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel.json:$(TARGET_COPY_OUT_ODM)/etc/display/qdcm_calib_data_AA545_P_3_A0005_dsc_cmd_mode_panel.json \
     vendor/oneplus/dodge/proprietary/odm/etc/display/qdcm_calib_data_AA569_P_3_A0019_dsc_cmd_mode_panel.json:$(TARGET_COPY_OUT_ODM)/etc/display/qdcm_calib_data_AA569_P_3_A0019_dsc_cmd_mode_panel.json \
+    vendor/oneplus/dodge/proprietary/odm/etc/displaycolorfeaturecfg.xml:$(TARGET_COPY_OUT_ODM)/etc/displaycolorfeaturecfg.xml \
     vendor/oneplus/dodge/proprietary/odm/etc/init/init.camera_process.rc:$(TARGET_COPY_OUT_ODM)/etc/init/init.camera_process.rc \
     vendor/oneplus/dodge/proprietary/odm/etc/init/init.camera_upate.rc:$(TARGET_COPY_OUT_ODM)/etc/init/init.camera_upate.rc \
     vendor/oneplus/dodge/proprietary/odm/etc/init/vendor.oplus.hardware.cammidasservice-V1-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.oplus.hardware.cammidasservice-V1-service.rc \
@@ -856,8 +884,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/odm/etc/sensor/config/sns_gyro_cal.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/sns_gyro_cal.json \
     vendor/oneplus/dodge/proprietary/odm/etc/sensor/sensor_config.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/sensor_config.json \
     vendor/oneplus/dodge/proprietary/odm/etc/usecaseKvManager.xml:$(TARGET_COPY_OUT_ODM)/etc/usecaseKvManager.xml \
-    vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_0.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_0.bin \
-    vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_1.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_1.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_10.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_10.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_100.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_100.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_101.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_101.bin \
@@ -877,7 +903,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_12.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_12.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_122.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_122.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_170.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_170.bin \
-    vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_2.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_2.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_3.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_3.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_302.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_302.bin \
     vendor/oneplus/dodge/proprietary/odm/etc/vibrator/9999/def/effect_303.bin:$(TARGET_COPY_OUT_ODM)/etc/vibrator/9999/def/effect_303.bin \
@@ -1364,6 +1389,7 @@ PRODUCT_PACKAGES += \
     libaidenoiser \
     libaidenoiserv2 \
     libaisr \
+    libap_uir_dimming \
     libbgstatsmerger \
     libbitmlengine \
     libbitmlenginev2 \
@@ -1393,10 +1419,13 @@ PRODUCT_PACKAGES += \
     libchinodehmeutils \
     libcom.qti.chinodeutils \
     libcommonchiutils \
+    libcwb_qcom_aidl \
     libdepthcomputation \
     libhdr10plus \
     libhdr_stub \
+    libhistogram \
     libhme \
+    libhwcsensor \
     libhwliqinterface2 \
     libhwlispcffdump \
     libiccprofile \
@@ -1429,12 +1458,22 @@ PRODUCT_PACKAGES += \
     libpnc \
     libproj_qmot_tracker \
     libproj_sot \
+    libpwirisfeature \
+    libpwirishal \
+    libpwirishalwrapper \
+    libpwirishardware_ext \
+    libqdutils \
     libqfdadapter \
     libqfdservice \
     libqll \
     libqllengine \
     libqsegnet \
     libqshcamera \
+    libsdedrm \
+    libsdmclient \
+    libsdmcore \
+    libsdmdal \
+    libsdmutils \
     libsfeShiftExtrapolation \
     libsiminputgenutil \
     libspectre \
@@ -1443,8 +1482,17 @@ PRODUCT_PACKAGES += \
     libubifocus \
     libvideoml \
     sensors.qsh \
+    vendor.pixelworks.hardware.display-V3-ndk \
+    vendor.pixelworks.hardware.display@1.0 \
+    vendor.pixelworks.hardware.display@1.1 \
+    vendor.pixelworks.hardware.display@1.2 \
+    vendor.pixelworks.hardware.feature-V2-ndk \
+    vendor.pixelworks.hardware.feature@1.0 \
+    vendor.pixelworks.hardware.feature@1.1 \
+    vendor.pixelworks.hardware.feature@1.2 \
     vendor.qti.hardware.camera.aon-service-impl \
     vendor.qti.hardware.camera.offlinecamera-service-impl \
+    vendor.qti.hardware.display.composer3-V1-ndk_prebuilt \
     com.qti.sensor.dodgefront \
     com.qti.sensor.dodgemain \
     com.qti.sensor.dodgetele \
@@ -1503,6 +1551,7 @@ PRODUCT_PACKAGES += \
     libOplusPDCore \
     libOpo_awb \
     libPDParamParser \
+    libPanelChaplin_odm \
     libRedeyeReduce \
     libSuperRaw \
     libUpScale \
@@ -1549,12 +1598,14 @@ PRODUCT_PACKAGES += \
     libcam.odnn.interface \
     libcam.oplus.3a.v2 \
     libcam.oplus.3a.v3 \
+    libclstc_color_feature \
     libcreateFDCLitecachebin \
     libcreateFDCcachebin \
     libcreatebin \
     libcreatebinForBaseretouch \
     libcreatebinForFaceretouch \
     libcvface_api \
+    libdisplayfossfeature_nature \
     libdngsdkwrapper \
     libeffect_custom \
     libexif-jpeg-aps \
@@ -1600,9 +1651,13 @@ PRODUCT_PACKAGES += \
     vendor.qti.camera.aon-impl.xml \
     vendor.qti.camera.offlinecamera-impl.xml \
     vendor.qti.camera.provider.xml \
+    manifest_displaycolorfeature_aidl.xml \
     manifest_oplus_camera_rfi.xml \
     manifest_oplus_cammidasservice_aidl.xml \
+    manifest_oplus_cwb_aidl.xml \
     manifest_oplus_sendextcamcmd.xml \
     vendor.oplus.camera.aon-impl.xml \
+    vintf_manifext_aidl_panelchaplin.xml \
     vendor.qti.camera.provider-service_64 \
+    vendor.qti.hardware.display.composer-service \
     vendor.oplus.hardware.cammidasservice-V1-service
